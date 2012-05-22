@@ -7,14 +7,12 @@ Relies on the HTML Agility Pack for HTML parsing (http://htmlagilitypack.codeple
 
 Usage:
 ---------------------
-* * *
 
     MyFitnessScraper.exe {UserName} {Password} {StartDate} {NumberOfDays} {PathToCSVFile}    
 
 
 Still TODO:
 ---------------------
-* * *
 -Some serious error checking/logging
 -Add more unit tests
 -Scrape exercise data
