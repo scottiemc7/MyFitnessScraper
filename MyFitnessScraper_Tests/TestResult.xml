@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Visual Studio Projects\MyFitnessBuddy\MyFitnessBuddy_Tests\MyFitnessBuddy_Tests.csproj" total="2" errors="0" failures="1" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-05-20" time="20:42:58">
+  <environment nunit-version="2.6.0.12051" clr-version="2.0.50727.5456" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="D:\Visual Studio Projects\MyFitnessBuddy\MyFitnessBuddy_Tests" machine-name="SCOTT-ZENBOOK" user="Scott" user-domain="Scott-Zenbook" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="D:\Visual Studio Projects\MyFitnessBuddy\MyFitnessBuddy_Tests\MyFitnessBuddy_Tests.csproj" executed="True" result="Failure" success="False" time="1.331" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="D:\Visual Studio Projects\MyFitnessBuddy\MyFitnessBuddy_Tests\bin\Debug\MyFitnessBuddy_Tests.dll" executed="True" result="Failure" success="False" time="1.263" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="MyFitnessBuddy_Tests" executed="True" result="Failure" success="False" time="1.261" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="HtmlDataParser_Test" executed="True" result="Failure" success="False" time="1.252" asserts="0">
+                <results>
+                  <test-case name="MyFitnessBuddy_Tests.HtmlDataParser_Test.ParseFoodDiary_Each_Food_Has_Same_Nutrients" executed="True" result="Failure" success="False" time="0.829" asserts="1">
+                    <failure>
+                      <message><![CDATA[  Expected is <System.Collections.Generic.List`1[System.String]> with 3 elements, actual is <System.Linq.Enumerable+WhereSelectListIterator`2[MyFitnessBuddy.INutrient,System.String]>
+  Values differ at index [0]
+  Expected string length 5 but was 6. Strings differ at index 5.
+  Expected: "Carbs"
+  But was:  "Carbsx"
+  ----------------^
+]]></message>
+                      <stack-trace><![CDATA[at MyFitnessBuddy_Tests.HtmlDataParser_Test.ParseFoodDiary_Each_Food_Has_Same_Nutrients() in D:\Visual Studio Projects\MyFitnessBuddy\MyFitnessBuddy_Tests\HtmlDataParser_Test.cs:line 68
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                  <test-case name="MyFitnessBuddy_Tests.HtmlDataParser_Test.ParseFoodDiary_ParsesCorrect_Number_Of_Meals" executed="True" result="Success" success="True" time="0.043" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

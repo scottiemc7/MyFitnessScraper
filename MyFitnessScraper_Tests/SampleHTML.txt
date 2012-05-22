@@ -1,0 +1,1422 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+  <script type="text/javascript">
+//<![CDATA[
+var AUTH_TOKEN = "Kw2cCTQ=";
+//]]>
+</script>
+  
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+  <title>SomeUsers's Food Diary | MyFitnessPal.com</title>
+
+  <meta name="description" content="Free online calorie counter and diet plan. Lose weight by tracking your caloric intake quickly and easily.  Find nutrition facts for over 1,000,000 foods." />
+  <meta name="keywords" content="calorie counter, free diet journal, weight loss program, nutrition facts, online calorie counter, free diet plan, weight loss online, free calorie counter" />
+  <meta name="verify-v1" content="jKS1fjb9pK13luol4O+VFWO0OwEYaK4au88j0aRpQTM=" />
+
+	<link href="http://assets-cdn.myfitnesspal.com/stylesheets/style.css?7505" media="all" rel="stylesheet" type="text/css" />
+	
+  
+  <script src="http://assets-cdn.myfitnesspal.com/javascripts/core2.js?7305" type="text/javascript"></script>
+  
+  
+  
+  
+    <script type="text/javascript">
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+      (function() {
+       var gads = document.createElement('script');
+       gads.async = true; gads.type = 'text/javascript';
+       gads.src = "http://www.googletagservices.com/tag/js/gpt.js";
+       var node = document.getElementsByTagName('script')[0];
+         node.parentNode.insertBefore(gads, node);
+      })();
+    </script>
+    <script type="text/javascript">
+     googletag.cmd.push(function() {
+       
+       googletag.defineUnit('/1033141/ca-pub-8033683427063754/diaries_728x90', [728,90], 'ad_diaries_728x90').
+         addService(googletag.pubads());
+      
+       googletag.defineUnit('/1033141/ca-pub-8033683427063754/diaries_160x600', [160,600], 'ad_diaries_160x600').
+         addService(googletag.pubads());
+      
+       googletag.enableServices();
+     });
+    </script>
+  
+  
+  
+  
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-94924-2']);
+  
+  if(typeof(_vis_opt_GA_track) == "function") { _vis_opt_GA_track(); }
+  
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+
+<body id="food-diary">
+  
+  
+  
+  
+  <!--[if lte IE 7]><div id="ie"><![endif]-->
+  <!--[if IE 6]><div id="ie6"><![endif]-->
+  
+  <div id="wrap">		
+		
+    <div id="header">
+
+	<div id="logo"><a href="/">Calorie Counter</a></div>
+  
+	<ul id="nav" class="nav">
+
+		<li class="mainnav">
+			
+			<a class="mainlink" href="/">My Home</a>
+						
+		</li>
+		
+		<li class="mainnav mainactive">
+      
+			<a class="mainlink" href="/food/diary/SomeUsers">Food</a>
+						
+		</li>
+		
+		<li class="mainnav">
+			
+			<a class="mainlink" href="/exercise/diary/SomeUsers">Exercise</a>
+      			
+		</li>
+		
+		<li class="mainnav">
+			<a class="mainlink" href="/reports">Reports</a>			
+		</li>
+		
+		<li class="mainnav">
+			<a class="mainlink" href="/tools">Tools</a>			
+		</li>
+		
+		<li class="mainnav">
+			<a class="mainlink" href="/forums">Community</a>
+    			
+		</li>
+	
+	</ul>
+	
+	
+	
+	<ul class="subNav nav">
+				
+		<li class="first active"><a href="/food/diary/SomeUsers">Food Diary</a></li>
+		<li><a href="/food/calorie-chart-nutrition-facts">Database</a></li>
+		<li><a href="/food/mine">My Foods</a></li>
+		<li><a href="/meal/mine">My Meals</a></li>
+		<li><a href="/recipe/box">Recipes</a></li>
+		<li><a href="/account/diary_settings">Settings</a></li>
+		
+	</ul>
+	
+	
+	
+	<ul id="navTop" class="nav">
+		
+		<li class="first">Hi, <strong>SomeUsers</strong></li>
+		<li>
+		  <a href="/messages" class="mail">
+		  
+        (0)
+      
+		  </a>
+		  <a href="/invitations" class="invites">
+		  
+        (0)
+      
+		  </a>
+		</li>
+		<li><a href="/help">Help</a></li>
+		
+		<li><a href="/account/settings">Settings</a></li>
+		<li><a href="/account/logout">Logout</a></li>
+		<li class="last">
+		  <span>Follow Us:</span>
+      <a href="http://facebook.com/myfitnesspal" class="follow"><img alt="Icon-facebook" src="http://assets-cdn.myfitnesspal.com/images/icon-facebook.gif?1327990161" /></a>
+		  <a href="http://twitter.com/myfitnesspal" class="follow"><img alt="Icon-twitter" src="http://assets-cdn.myfitnesspal.com/images/icon-twitter.png?1327990161" /></a>
+    </li>
+
+	</ul>
+		
+</div><!-- / #header -->
+		
+		<div id="content">
+		
+		  
+<div class="ads">
+	
+  	<p class="ad">
+<div id="ad_diaries_728x90" style="width: 728px; height: 90px">
+<script type="text/javascript">
+  
+    googletag.cmd.push(function() {googletag.display('ad_diaries_728x90'); });
+  
+</script>
+</div></p>
+	
+</div>
+
+<div id="main">
+
+	<div class="diary">
+	
+			<h1>Your Food Diary For:</h1>
+		
+		  <div id="date_controls">
+<form action="/food/diary/SomeUsers" class="date-controls-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="UsXceGiuS/SKUeGdCbteshi2PAY0vAgPDVrDKw2cCTQ=" /></div>
+
+<span class="date">
+  <a href="/food/diary/SomeUsers?date=2012-05-12" class="prev">Prev</a> Sunday May 13, 2012 <a href="/food/diary/SomeUsers?date=2012-05-14" class="next">Next</a>
+</span>
+    <input type="hidden" value="2012-05-13" name="hidden_date_selector"  id="date_selector" />
+</form>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+  $(function(){
+    function change_diary_date(new_date) {
+      var new_url = '/food/diary/SomeUsers';
+      new_url += (new_url.indexOf('?') == -1) ? '?' : '&';
+      new_url += 'date=' + new_date;
+      location = new_url;
+    }
+
+    $("#date_selector").datepicker({
+      buttonImage:"http://assets-cdn.myfitnesspal.com/images/ico_calendar.gif?1327990161",
+      buttonImageOnly:true,
+      buttonText:"",
+      showOn: 'button',
+      defaultDate: $("#date_selector").attr("value"),
+      dateFormat: 'yy-mm-dd',
+      onSelect:change_diary_date
+    });
+  });
+//]]>
+</script>
+
+	
+	</div>
+
+	<div class="container">
+
+    	
+    
+    
+    
+		
+		
+		<table class="table0">
+	  
+		  <colgroup>
+				<col class="col-1" />
+				
+				  <col class="col-2" />
+        
+				  <col class="col-2" />
+        
+				  <col class="col-2" />
+        
+				  <col class="col-2" />
+        
+				<col class="col-8" />
+			</colgroup>
+
+  		<tbody>			
+			
+			  
+
+			  
+		
+  				<tr class="meal_header">
+		
+  					<td class="first alt">Breakfast</td>
+  					
+        			
+        				<td class="alt">Calories</td>
+        			
+        				<td class="alt">Carbs</td>
+        			
+        				<td class="alt">Fat</td>
+        			
+        				<td class="alt">Protein</td>
+        			
+  		      
+  				</tr>
+		
+    			
+    			
+    				
+    			
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    				<tr>
+    				  
+    				  <td class="first alt">
+    				    
+    					  
+  					      <a onclick="showEditFood(2960158304);" href="#">Nestle - Coffee-Mate Natural Bliss - Sweet Cream, 1 tbsp</a>
+  					    
+  					    
+  					  </td>
+
+    					
+    					
+    						<td>35</td>
+    						
+    					
+    					
+    						<td>5</td>
+    						
+    					
+    					
+    						<td>2</td>
+    						
+    					
+    					
+    						<td>0</td>
+    						
+    					
+    					
+    					<td class="delete">
+                
+                  <a href="/food/remove/2960158304"><img alt="Ico_delete" src="http://assets-cdn.myfitnesspal.com/images/ico_delete.gif?1327990161" /></a>
+                
+    					</td>
+    					
+    				</tr>
+    				
+    			
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    				<tr>
+    				  
+    				  <td class="first alt">
+    				    
+    					  
+  					      <a onclick="showEditFood(2960158312);" href="#">Coffee - Brewed from grounds, 1 cup (8 fl oz)</a>
+  					    
+  					    
+  					  </td>
+
+    					
+    					
+    						<td>2</td>
+    						
+    					
+    					
+    						<td>0</td>
+    						
+    					
+    					
+    						<td>0</td>
+    						
+    					
+    					
+    						<td>0</td>
+    						
+    					
+    					
+    					<td class="delete">
+                
+                  <a href="/food/remove/2960158312"><img alt="Ico_delete" src="http://assets-cdn.myfitnesspal.com/images/ico_delete.gif?1327990161" /></a>
+                
+    					</td>
+    					
+    				</tr>
+    				
+    			
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    				<tr>
+    				  
+    				  <td class="first alt">
+    				    
+    					  
+  					      <a onclick="showEditFood(2960162624);" href="#">Food for Life - Genesis 1:29 Sprouted Whole Grain &amp; Seed English Muffin, 1 muffin</a>
+  					    
+  					    
+  					  </td>
+
+    					
+    					
+    						<td>180</td>
+    						
+    					
+    					
+    						<td>30</td>
+    						
+    					
+    					
+    						<td>4</td>
+    						
+    					
+    					
+    						<td>8</td>
+    						
+    					
+    					
+    					<td class="delete">
+                
+                  <a href="/food/remove/2960162624"><img alt="Ico_delete" src="http://assets-cdn.myfitnesspal.com/images/ico_delete.gif?1327990161" /></a>
+                
+    					</td>
+    					
+    				</tr>
+    				
+    			
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    				<tr>
+    				  
+    				  <td class="first alt">
+    				    
+    					  
+  					      <a onclick="showEditFood(2960164520);" href="#">Eggbeaters - Egg Beaters, 6 tbsp</a>
+  					    
+  					    
+  					  </td>
+
+    					
+    					
+    						<td>50</td>
+    						
+    					
+    					
+    						<td>1</td>
+    						
+    					
+    					
+    						<td>0</td>
+    						
+    					
+    					
+    						<td>10</td>
+    						
+    					
+    					
+    					<td class="delete">
+                
+                  <a href="/food/remove/2960164520"><img alt="Ico_delete" src="http://assets-cdn.myfitnesspal.com/images/ico_delete.gif?1327990161" /></a>
+                
+    					</td>
+    					
+    				</tr>
+    				
+    			
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    				<tr>
+    				  
+    				  <td class="first alt">
+    				    
+    					  
+  					      <a onclick="showEditFood(2960175800);" href="#">Publix Greenwise Market - 100% Organic Old Fashion Oatmeal, 1/2 cup dry</a>
+  					    
+  					    
+  					  </td>
+
+    					
+    					
+    						<td>150</td>
+    						
+    					
+    					
+    						<td>27</td>
+    						
+    					
+    					
+    						<td>3</td>
+    						
+    					
+    					
+    						<td>5</td>
+    						
+    					
+    					
+    					<td class="delete">
+                
+                  <a href="/food/remove/2960175800"><img alt="Ico_delete" src="http://assets-cdn.myfitnesspal.com/images/ico_delete.gif?1327990161" /></a>
+                
+    					</td>
+    					
+    				</tr>
+    				
+    			
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    					
+
+    					
+
+    					
+
+    				
+
+    				<tr>
+    				  
+    				  <td class="first alt">
+    				    
+    					  
+  					      <a onclick="showEditFood(2960183688);" href="#">Wyman's - Fresh Frozen Wild Blueberries, 0.25 cup (140 grams)</a>
+  					    
+  					    
+  					  </td>
+
+    					
+    					
+    						<td>15</td>
+    						
+    					
+    					
+    						<td>5</td>
+    						
+    					
+    					
+    						<td>0</td>
+    						
+    					
+    					
+    						<td>0</td>
+    						
+    					
+    					
+    					<td class="delete">
+                
+                  <a href="/food/remove/2960183688"><img alt="Ico_delete" src="http://assets-cdn.myfitnesspal.com/images/ico_delete.gif?1327990161" /></a>
+                
+    					</td>
+    					
+    				</tr>
+    			
+						
+  				<tr class="bottom">
+
+  					<td class="first alt" style="z-index: 10">
+  					  
+  						
+              	
+              	<a href="/food/add_to_diary?meal=0" class="add_food">Add Food</a>
+            
+            	<div class="quick_tools">
+            	  <a href="#" onclick="toggleQuickTool(0); return false;">Quick Tools</a>
+            	  <div id="quick_tools_0" class="quick_tools_options" style="display:none;">
+            	    <ul>
+            	      
+            	      <li><a onclick="showLightbox(200, 250, '/food/quick_add?meal=0&date=2012-05-13'); return false;">Quick add calories</a></li>
+            	      
+            	      <li><a href="/meal/new?meal=0">Remember meal</a></li>
+            	      
+                    
+                    
+                    
+                    
+                      
+              	        <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-12&amp;meal=0&amp;username=SomeUsers">Copy yesterday</a></li>
+              	      
+              	      
+              	      <li><a href="#" onclick="showRecentMeals(0); return false;">Copy from date</a></li>
+              	      
+              	    
+                    
+                    
+                    
+            	      <li><a href="#" onclick="showRecentMealsCopyTo(0); return false;">Copy to date</a></li>               
+                    
+            	    </ul>
+            	  </div>
+            	  
+            	  <div id="recent_meals_0" class="recent_meal_options" style="display: none;">
+                  
+            	      <ul id="recent_meal_options_0">
+                      <li class="header">Copy from which date?</li>        
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-12&amp;meal=0&amp;username=SomeUsers">Saturday, May 12</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-11&amp;meal=0&amp;username=SomeUsers">Friday, May 11</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-10&amp;meal=0&amp;username=SomeUsers">Thursday, May 10</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-09&amp;meal=0&amp;username=SomeUsers">Wednesday, May  9</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-08&amp;meal=0&amp;username=SomeUsers">Tuesday, May  8</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-07&amp;meal=0&amp;username=SomeUsers">Monday, May  7</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-06&amp;meal=0&amp;username=SomeUsers">Sunday, May  6</a></li>
+	                    
+	                  </ul>
+                  	                  
+                </div>
+
+                <div id="recent_meals_copy_to_0" class="recent_meal_options" style="display: none;">
+            	    <ul id="recent_meal_options_copy_to_0">                
+            	      <li class="header">Copy to which date?</li>
+                    <li><a href="/food/copy_meal?date=2012-05-16&amp;from_date=2012-05-13&amp;meal=0&amp;username=SomeUsers">Wednesday, May 16</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-15&amp;from_date=2012-05-13&amp;meal=0&amp;username=SomeUsers">Tuesday, May 15</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-14&amp;from_date=2012-05-13&amp;meal=0&amp;username=SomeUsers">Tomorrow</a></li>            	      
+                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-13&amp;meal=0&amp;username=SomeUsers">Today</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-12&amp;from_date=2012-05-13&amp;meal=0&amp;username=SomeUsers">Yesterday</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-11&amp;from_date=2012-05-13&amp;meal=0&amp;username=SomeUsers">Friday, May 11</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-10&amp;from_date=2012-05-13&amp;meal=0&amp;username=SomeUsers">Thursday, May 10</a></li>
+                  </ul>
+                </div>
+
+            	</div>
+              
+
+  					</td>
+
+    				
+    				
+    					<td>432</td>
+    					
+    				
+    				
+    					<td>68</td>
+    					
+    				
+    				
+    					<td>9</td>
+    					
+    				
+    				
+    					<td>23</td>
+    					
+    				
+  					
+  					<td></td>
+
+  				</tr>
+
+		    
+
+			  
+		
+  				<tr class="meal_header">
+		
+  					<td class="first alt">Lunch</td>
+  					
+  				</tr>
+		
+    			
+    			
+    			
+						
+  				<tr class="bottom">
+
+  					<td class="first alt" style="z-index: 9">
+  					  
+  						
+              	
+              	<a href="/food/add_to_diary?meal=1" class="add_food">Add Food</a>
+            
+            	<div class="quick_tools">
+            	  <a href="#" onclick="toggleQuickTool(1); return false;">Quick Tools</a>
+            	  <div id="quick_tools_1" class="quick_tools_options" style="display:none;">
+            	    <ul>
+            	      
+            	      <li><a onclick="showLightbox(200, 250, '/food/quick_add?meal=1&date=2012-05-13'); return false;">Quick add calories</a></li>
+            	      
+                    
+                    
+                    
+                    
+                      
+              	        <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-12&amp;meal=1&amp;username=SomeUsers">Copy yesterday</a></li>
+              	      
+              	      
+              	      <li><a href="#" onclick="showRecentMeals(1); return false;">Copy from date</a></li>
+              	      
+              	    
+                    
+                    
+                    
+            	      <li><a href="#" onclick="showRecentMealsCopyTo(1); return false;">Copy to date</a></li>               
+                    
+            	    </ul>
+            	  </div>
+            	  
+            	  <div id="recent_meals_1" class="recent_meal_options" style="display: none;">
+                  
+            	      <ul id="recent_meal_options_1">
+                      <li class="header">Copy from which date?</li>        
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-12&amp;meal=1&amp;username=SomeUsers">Saturday, May 12</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-11&amp;meal=1&amp;username=SomeUsers">Friday, May 11</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-10&amp;meal=1&amp;username=SomeUsers">Thursday, May 10</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-09&amp;meal=1&amp;username=SomeUsers">Wednesday, May  9</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-08&amp;meal=1&amp;username=SomeUsers">Tuesday, May  8</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-07&amp;meal=1&amp;username=SomeUsers">Monday, May  7</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-06&amp;meal=1&amp;username=SomeUsers">Sunday, May  6</a></li>
+	                    
+	                  </ul>
+                  	                  
+                </div>
+
+                <div id="recent_meals_copy_to_1" class="recent_meal_options" style="display: none;">
+            	    <ul id="recent_meal_options_copy_to_1">                
+            	      <li class="header">Copy to which date?</li>
+                    <li><a href="/food/copy_meal?date=2012-05-16&amp;from_date=2012-05-13&amp;meal=1&amp;username=SomeUsers">Wednesday, May 16</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-15&amp;from_date=2012-05-13&amp;meal=1&amp;username=SomeUsers">Tuesday, May 15</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-14&amp;from_date=2012-05-13&amp;meal=1&amp;username=SomeUsers">Tomorrow</a></li>            	      
+                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-13&amp;meal=1&amp;username=SomeUsers">Today</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-12&amp;from_date=2012-05-13&amp;meal=1&amp;username=SomeUsers">Yesterday</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-11&amp;from_date=2012-05-13&amp;meal=1&amp;username=SomeUsers">Friday, May 11</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-10&amp;from_date=2012-05-13&amp;meal=1&amp;username=SomeUsers">Thursday, May 10</a></li>
+                  </ul>
+                </div>
+
+            	</div>
+              
+
+  					</td>
+
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+  					
+  					<td></td>
+
+  				</tr>
+
+		    
+
+			  
+		
+  				<tr class="meal_header">
+		
+  					<td class="first alt">Dinner</td>
+  					
+  				</tr>
+		
+    			
+    			
+    			
+						
+  				<tr class="bottom">
+
+  					<td class="first alt" style="z-index: 8">
+  					  
+  						
+              	
+              	<a href="/food/add_to_diary?meal=2" class="add_food">Add Food</a>
+            
+            	<div class="quick_tools">
+            	  <a href="#" onclick="toggleQuickTool(2); return false;">Quick Tools</a>
+            	  <div id="quick_tools_2" class="quick_tools_options" style="display:none;">
+            	    <ul>
+            	      
+            	      <li><a onclick="showLightbox(200, 250, '/food/quick_add?meal=2&date=2012-05-13'); return false;">Quick add calories</a></li>
+            	      
+                    
+                    
+                    
+                    
+                      
+              	        <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-12&amp;meal=2&amp;username=SomeUsers">Copy yesterday</a></li>
+              	      
+              	      
+              	      <li><a href="#" onclick="showRecentMeals(2); return false;">Copy from date</a></li>
+              	      
+              	    
+                    
+                    
+                    
+            	      <li><a href="#" onclick="showRecentMealsCopyTo(2); return false;">Copy to date</a></li>               
+                    
+            	    </ul>
+            	  </div>
+            	  
+            	  <div id="recent_meals_2" class="recent_meal_options" style="display: none;">
+                  
+            	      <ul id="recent_meal_options_2">
+                      <li class="header">Copy from which date?</li>        
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-12&amp;meal=2&amp;username=SomeUsers">Saturday, May 12</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-11&amp;meal=2&amp;username=SomeUsers">Friday, May 11</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-10&amp;meal=2&amp;username=SomeUsers">Thursday, May 10</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-09&amp;meal=2&amp;username=SomeUsers">Wednesday, May  9</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-08&amp;meal=2&amp;username=SomeUsers">Tuesday, May  8</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-07&amp;meal=2&amp;username=SomeUsers">Monday, May  7</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-06&amp;meal=2&amp;username=SomeUsers">Sunday, May  6</a></li>
+	                    
+	                  </ul>
+                  	                  
+                </div>
+
+                <div id="recent_meals_copy_to_2" class="recent_meal_options" style="display: none;">
+            	    <ul id="recent_meal_options_copy_to_2">                
+            	      <li class="header">Copy to which date?</li>
+                    <li><a href="/food/copy_meal?date=2012-05-16&amp;from_date=2012-05-13&amp;meal=2&amp;username=SomeUsers">Wednesday, May 16</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-15&amp;from_date=2012-05-13&amp;meal=2&amp;username=SomeUsers">Tuesday, May 15</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-14&amp;from_date=2012-05-13&amp;meal=2&amp;username=SomeUsers">Tomorrow</a></li>            	      
+                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-13&amp;meal=2&amp;username=SomeUsers">Today</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-12&amp;from_date=2012-05-13&amp;meal=2&amp;username=SomeUsers">Yesterday</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-11&amp;from_date=2012-05-13&amp;meal=2&amp;username=SomeUsers">Friday, May 11</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-10&amp;from_date=2012-05-13&amp;meal=2&amp;username=SomeUsers">Thursday, May 10</a></li>
+                  </ul>
+                </div>
+
+            	</div>
+              
+
+  					</td>
+
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+  					
+  					<td></td>
+
+  				</tr>
+
+		    
+
+			  
+		
+  				<tr class="meal_header">
+		
+  					<td class="first alt">Snacks</td>
+  					
+  				</tr>
+		
+    			
+    			
+    			
+						
+  				<tr class="bottom">
+
+  					<td class="first alt" style="z-index: 7">
+  					  
+  						
+              	
+              	<a href="/food/add_to_diary?meal=3" class="add_food">Add Food</a>
+            
+            	<div class="quick_tools">
+            	  <a href="#" onclick="toggleQuickTool(3); return false;">Quick Tools</a>
+            	  <div id="quick_tools_3" class="quick_tools_options" style="display:none;">
+            	    <ul>
+            	      
+            	      <li><a onclick="showLightbox(200, 250, '/food/quick_add?meal=3&date=2012-05-13'); return false;">Quick add calories</a></li>
+            	      
+                    
+                    
+                    
+                    
+                      
+              	        <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-12&amp;meal=3&amp;username=SomeUsers">Copy yesterday</a></li>
+              	      
+              	      
+              	      <li><a href="#" onclick="showRecentMeals(3); return false;">Copy from date</a></li>
+              	      
+              	    
+                    
+                    
+                    
+            	      <li><a href="#" onclick="showRecentMealsCopyTo(3); return false;">Copy to date</a></li>               
+                    
+            	    </ul>
+            	  </div>
+            	  
+            	  <div id="recent_meals_3" class="recent_meal_options" style="display: none;">
+                  
+            	      <ul id="recent_meal_options_3">
+                      <li class="header">Copy from which date?</li>        
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-12&amp;meal=3&amp;username=SomeUsers">Saturday, May 12</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-11&amp;meal=3&amp;username=SomeUsers">Friday, May 11</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-10&amp;meal=3&amp;username=SomeUsers">Thursday, May 10</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-09&amp;meal=3&amp;username=SomeUsers">Wednesday, May  9</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-08&amp;meal=3&amp;username=SomeUsers">Tuesday, May  8</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-07&amp;meal=3&amp;username=SomeUsers">Monday, May  7</a></li>
+	                    
+	                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-06&amp;meal=3&amp;username=SomeUsers">Sunday, May  6</a></li>
+	                    
+	                  </ul>
+                  	                  
+                </div>
+
+                <div id="recent_meals_copy_to_3" class="recent_meal_options" style="display: none;">
+            	    <ul id="recent_meal_options_copy_to_3">                
+            	      <li class="header">Copy to which date?</li>
+                    <li><a href="/food/copy_meal?date=2012-05-16&amp;from_date=2012-05-13&amp;meal=3&amp;username=SomeUsers">Wednesday, May 16</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-15&amp;from_date=2012-05-13&amp;meal=3&amp;username=SomeUsers">Tuesday, May 15</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-14&amp;from_date=2012-05-13&amp;meal=3&amp;username=SomeUsers">Tomorrow</a></li>            	      
+                    <li><a href="/food/copy_meal?date=2012-05-13&amp;from_date=2012-05-13&amp;meal=3&amp;username=SomeUsers">Today</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-12&amp;from_date=2012-05-13&amp;meal=3&amp;username=SomeUsers">Yesterday</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-11&amp;from_date=2012-05-13&amp;meal=3&amp;username=SomeUsers">Friday, May 11</a></li>
+                    <li><a href="/food/copy_meal?date=2012-05-10&amp;from_date=2012-05-13&amp;meal=3&amp;username=SomeUsers">Thursday, May 10</a></li>
+                  </ul>
+                </div>
+
+            	</div>
+              
+
+  					</td>
+
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+    				
+    					<td>&nbsp;</td>
+    					
+    				
+  					
+  					<td></td>
+
+  				</tr>
+
+		    
+		    
+		    <tr class="spacer">
+  	      <td class="first" colspan="4">&nbsp;</td>
+  	      
+  	      <td class="empty">&nbsp;</td>
+  	      
+  	    </tr>
+		
+				<tr class="total">
+		
+					<td class="first">Totals</td>
+					
+    				<td>432</td>
+    			
+    				<td>68</td>
+    			
+    				<td>9</td>
+    			
+    				<td>23</td>
+    			
+					<td class="empty"></td>
+		
+				</tr>
+
+				<tr class="total alt">
+
+    			<td class="first">Your Daily Goal</td>
+    			
+    				<td>2,180</td>
+    			
+    				<td>300</td>
+    			
+    				<td>73</td>
+    			
+    				<td>82</td>
+    			
+					<td class="empty"></td>
+		
+				</tr>
+				
+				<tr class="total remaining">
+		
+					<td class="first">Remaining</td>
+					
+      		
+          
+            <td class="positive">
+              1,748
+            </td>
+          
+            <td class="positive">
+              232
+            </td>
+          
+            <td class="positive">
+              64
+            </td>
+          
+            <td class="positive">
+              59
+            </td>
+          
+					<td class="empty"></td>
+		
+				</tr>
+		
+			</tbody>
+			
+			<tfoot>
+	
+				<tr>
+	
+					<td class="first"></td>
+    			
+    				<td class="alt">Calories</td>
+    			
+    				<td class="alt">Carbs</td>
+    			
+    				<td class="alt">Fat</td>
+    			
+    				<td class="alt">Protein</td>
+    			
+					<td class="empty"></td>
+
+				</tr>
+				
+    		
+	
+			</tfoot>
+			
+		
+		</table>
+	
+	</div><!-- / .table-container -->  
+	
+		
+	<div id="complete_day">
+  		<span class="day_incomplete_message">When you're finished logging all foods and exercise for this day, click here:
+  <a href="/food/day_complete?date=2012-05-13" class="button complete-this-day-button">Complete This Entry</a>
+</span>
+
+  </div>
+  
+	
+	<div class="block">
+	
+		<div class="water-consumption">
+		
+			<h3>Water Consumption</h3>
+
+		  <p>We recommend that you drink at least 8 cups of water a day. Click the arrows to add or subtract cups of water.</p>
+		
+		</div><!-- / .water-consumption -->
+		
+		<div class="water-counter" id="water_cups">
+      <p style="background:url('http://assets-cdn.myfitnesspal.com/images/glass_image_0.jpg?1327990161') no-repeat scroll center 23px;">
+  
+  <a href="/food/add_cup?date=2012-05-13" class="up">Up</a>
+		0
+  <a href="/food/remove_cup?date=2012-05-13" class="down">Down</a>
+  
+</p>
+
+		  
+		</div><!-- / .water-counter -->
+
+  	<form action="/food/save_note?date=2012-05-13" id="noteform" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="UsXceGiuS/SKUeGdCbteshi2PAY0vAgPDVrDKw2cCTQ=" /></div>
+  	<div id="notes">
+  		<div class="notes">
+
+	<h4 class="secondary-title">Today's Food Notes</h4>
+
+  <div id="note">
+    
+  	<p class="edit">
+  	  <a href="#" onclick="$('#note').hide(); $('#editable_note').show(); $('#note_body').focus(); return false;">Edit Note</a>
+    </p>
+    
+	
+	  <p class="note"></p>
+  </div>
+
+  
+  <div id="editable_note" style="display:none;">
+  	<p class="edit">
+  	  <a href="#" onclick="$('#edit_note_submit').parents('form:first').submit(); return false;">Save Note</a>
+      <input type="submit" value="Save Note" style="display: none;" id="edit_note_submit">
+    </p>
+    						
+  	<textarea cols="40" id="note_body" name="note[body]" rows="20"></textarea>
+  </div>
+  
+
+</div><!-- / .notes -->
+
+  	</div>
+  	</form>
+	</div><!-- / .block -->
+	
+	<p class="cont-0">
+
+	  <a href="/reports/printable_diary/SomeUsers?from=2012-05-13&amp;to=2012-05-13" class="button style-1"><span class="full-report">View Full Report (Printable)</span></a>
+
+    
+
+  </p>
+
+</div><!-- / #main -->
+
+<div id="sidebar">
+
+	<div class="ads">
+	
+		<div class="ad">
+<div id="ad_diaries_160x600" style="width: 160px; height: 600px">
+<script type="text/javascript">
+  
+    googletag.cmd.push(function() {googletag.display('ad_diaries_160x600'); });
+  
+</script>
+</div></div>
+		
+	</div>
+
+</div><!-- / #sidebar -->
+
+
+
+<script type="text/javascript">
+  
+  $("#complete_day a.complete-this-day-button").live("click", function(e) {
+    e.preventDefault();
+    remote_update("#complete_day", this.href)
+    $("#complete_day").html('<span id="loading">Processing <img alt="Ajax-loader-bert" src="http://assets-cdn.myfitnesspal.com/images/ajax-loader-bert.gif?1327990160" /><\/span>');
+  });
+
+  $("#water_cups a.up, #water_cups a.down").live("click", function(e) {
+    e.preventDefault();
+    remote_update("#water_cups", this.href);
+  });
+  
+
+  $("#noteform").bind("submit", function(e) {
+    e.preventDefault();
+    var $this = $(this);
+    remote_update("#noteform", $this.attr("action"), $this.serialize());
+  });
+</script>
+
+
+		
+		</div><!-- / #content -->
+
+	</div><!-- / #wrap -->
+	
+	<div id="footer">
+
+	<div id="footerContent">
+		
+		<ul class="nav bars">
+		
+		  <li><a href="/">Calorie Counter</a></li>
+		  <li><a href="/blog/mike">Blog</a></li>
+      <li><a href="/welcome/terms_of_use">Terms</a></li>
+      <li><a href="/welcome/privacy_policy">Privacy</a></li>
+      <li><a href="/welcome/contact_us">Contact Us</a></li>
+      <li><a href="/jobs">Jobs</a></li>
+      <li><a href="http://www.myfitnesspal.com/forums/show/13-website-suggestions-feedback">Feedback</a></li>
+      <li>
+        <a href="/brand/list">Brands</a>
+      
+      </li>
+      <li><a href="http://www.myfitnesspal.com/welcome/guidelines">Community Guidelines</a></li>		
+		</ul>
+
+		<p id="copy">Copyright 2005-2012 MyFitnessPal, LLC</p>
+    
+    <p id="glam_logo">
+      <script type="text/javascript" language="JavaScript">
+      glam_affiliate_id = '1628584069';
+      glam_logo_type = 'Bliss';
+      glam_logo_size = '160x48';
+      glam_logo_color = 'gry';
+      </script>
+      <script src="http://www8.glam.com/js/widgets/glam_logo.js"></script>
+    </p>
+
+	</div><!-- / #footerContent -->
+
+</div><!-- / #footer -->
+
+
+	
+  
+  
+  <!--[if lte IE 7]></div><![endif]-->
+	<!--[if IE 6]></div><![endif]-->
+    
+  <script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:7563818,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7563818&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+  
+  
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/32/eum/rum.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","24ade29801",127698,"dA5YQkBeD1tcFx0HDlgFGVJbUBFO",0,240,new Date().getTime(),"","","","",""])</script></body>
+</html>
+
