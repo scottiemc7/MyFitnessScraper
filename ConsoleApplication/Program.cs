@@ -63,17 +63,17 @@ namespace ConsoleApplication
 
             Console.WriteLine("Grabbing Data...");
 
-            List<IMeal> allMeals = new List<IMeal>();
+			List<ITrackableDay> allDays = new List<ITrackableDay>();
             for (int i = 0; i < numDays; i++)
             {
                 DateTime date = startDate.AddDays(i);
-                allMeals.AddRange(pg.ParseFoodDiaryDate(dg.GrabFoodDataForDate(date), date));
+				allDays.Add(pg.ParseFoodDiaryDate(dg.GrabFoodDataForDate(date), date));
             }//end for
 
             Console.WriteLine("Writing Data...");
 
             CSVDataFormatter formatter = new CSVDataFormatter();
-            string formattedString = formatter.Format(allMeals);
+			string formattedString = formatter.Format(allDays);
 
             try
             {

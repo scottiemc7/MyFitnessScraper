@@ -7,6 +7,6 @@ namespace MyFitnessScraper
 {
     public interface IDataFormatter
     {
-        string Format(List<IMeal> meals);
+        string Format(List<ITrackableDay> days);
     }
 }

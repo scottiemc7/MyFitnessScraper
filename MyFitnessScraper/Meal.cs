@@ -7,7 +7,7 @@ namespace MyFitnessScraper
 {
     class Meal : IMeal
     {
-        public DateTime Date { get; set; }
+		//public DateTime Date { get; set; }
         public List<IFood> Foods
         {
             get;

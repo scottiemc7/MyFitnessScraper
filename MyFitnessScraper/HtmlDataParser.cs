@@ -10,7 +10,7 @@ namespace MyFitnessScraper
 {
     public class HtmlDataParser
     {
-        public List<IMeal> ParseFoodDiaryDate(string data, DateTime date)
+        public ITrackableDay ParseFoodDiaryDate(string data, DateTime date)
         {
             HtmlDocument doc = new HtmlDocument();
             doc.LoadHtml(data);
@@ -22,13 +22,13 @@ namespace MyFitnessScraper
             //All meals are stored in a table, with class = 'table0' and meal headers have the class 'meal_header'
             HtmlNodeCollection mealHeaderNodes = mainNode.SelectNodes("div[@class='container']/table[@class='table0']/tbody/tr[@class='meal_header']");
             HtmlNodeCollection mealDataNodes = mainNode.SelectNodes("div[@class='container']/table[@class='table0']/tbody/tr");
-            
-            List<IMeal> meals = new List<IMeal>();
+
+            ITrackableDay day = new TrackableDay() { Date = date.Date, WaterCups = 0, Meals = new List<IMeal>(), Notes = string.Empty };
             StringBuilder sb = new StringBuilder();
 
             //TODO: throw an exception here
             if (mealHeaderNodes.Count == 0 || mealDataNodes.Count == 0)
-                return meals;
+                return day;
 
             //Grab nutrient names from first meal header
             List<string> nutrientNames = new List<string>();
@@ -43,7 +43,7 @@ namespace MyFitnessScraper
             {
                 foreach (HtmlNode mealNameNode in mealHeaderNode.SelectNodes("td[@class='first alt']"))
                 {
-                    IMeal meal = new Meal() { Name = mealNameNode.InnerText, Foods = new List<IFood>(), Date = date.Date };
+                    IMeal meal = new Meal() { Name = mealNameNode.InnerText, Foods = new List<IFood>() };
 
                     //Grab <tr> nodes, until you reach the "bottom" which will be the end of this meal's data rows
                     HtmlNode sibling = mealNameNode.ParentNode.NextSibling;
@@ -69,11 +69,27 @@ namespace MyFitnessScraper
                         sibling = sibling.NextSibling;
                     }//end while
 
-                    meals.Add(meal);
+                    day.Meals.Add(meal);
                 }//end foreach
             }//end foreach
 
-            return meals;
+            //Grab water
+			HtmlNode waterNode = doc.GetElementbyId("water_cups");
+			if (waterNode != null)
+			{
+				HtmlNode upNode = waterNode.SelectSingleNode("p/a[@class='up']");
+				if (upNode != null)
+					day.WaterCups = Convert.ToInt32(upNode.NextSibling.InnerText.Trim());
+			}//end if
+
+			//Grab notes
+			HtmlNode notesNode = doc.GetElementbyId("note_body");
+			if (notesNode != null)
+			{
+				day.Notes = notesNode.InnerText.Trim();
+			}//end if
+
+            return day;
         }
     }
 }

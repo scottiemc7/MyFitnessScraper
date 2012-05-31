@@ -7,7 +7,7 @@ namespace MyFitnessScraper
 {
     public interface IMeal
     {
-        DateTime Date { get; set; }
+		//DateTime Date { get; set; }
         string Name { get; set; }
         List<IFood> Foods { get; set; }
     }

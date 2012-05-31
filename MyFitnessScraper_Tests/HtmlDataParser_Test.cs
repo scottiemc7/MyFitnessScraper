@@ -38,10 +38,10 @@ namespace MyFitnessScraper_Tests
             HtmlDataParser parser = new HtmlDataParser();
 
             //Parse out the data
-            List<IMeal> meals = parser.ParseFoodDiaryDate(_html, DateTime.Now.Date);
+            ITrackableDay day = parser.ParseFoodDiaryDate(_html, DateTime.Now.Date);
 
             //Our assertions
-            Assert.AreEqual(4, meals.Count);
+            Assert.AreEqual(4, day.Meals.Count);
         }
 
 
@@ -51,11 +51,11 @@ namespace MyFitnessScraper_Tests
             HtmlDataParser parser = new HtmlDataParser();
 
             //Parse out the data
-            List<IMeal> meals = parser.ParseFoodDiaryDate(_html, DateTime.Now.Date);
+			ITrackableDay day = parser.ParseFoodDiaryDate(_html, DateTime.Now.Date);
 
             //Our assertions
             List<string> firstNutrientNames = new List<string>();
-            foreach (IMeal meal in meals)
+            foreach (IMeal meal in day.Meals)
             {
                 foreach (IFood food in meal.Foods)
                 {
