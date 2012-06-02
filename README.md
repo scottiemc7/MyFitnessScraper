@@ -9,8 +9,13 @@ Usage:
 ---------------------
 
     MyFitnessScraper.exe {UserName} {Password} {StartDate} {NumberOfDays} {PathToCSVFile}    
-
-
+  
+    
+Requires:
+---------------------
+    .NET Framework 4.0   
+  
+    
 Still TODO:
 ---------------------
 -Some serious error checking/logging  
